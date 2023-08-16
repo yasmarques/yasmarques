@@ -5,8 +5,9 @@
 H3ll0 W0RLD!
   </h1>
 <img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/d2c399af-c611-48b6-8729-5ae21d826156"> <br>
-  🍄 Currently Learning: JavaScript and Python
-  ✉️ Reach me at: yasmin.marquestito14@gmail.com
+  🍄 <bold>Currently Learning:</bold> JavaScript and Python <br>
+  ✉️ <bold>Reach me at:</bold> yasmin.marquestito14@gmail.com <br>
+  
 </div>
 
 
