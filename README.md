@@ -4,7 +4,9 @@
   <h1>
 H3ll0 W0RLD!
   </h1>
-<img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/d2c399af-c611-48b6-8729-5ae21d826156">
+<img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/d2c399af-c611-48b6-8729-5ae21d826156"> <br>
+  🍄 Currently Learning: JavaScript and Python
+  ✉️ Reach me at: yasmin.marquestito14@gmail.com
 </div>
 
 
