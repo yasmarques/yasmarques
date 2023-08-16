@@ -4,7 +4,7 @@
   <h1>
 H3ll0 W0RLD!
   </h1>
-<img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/3afafe6c-5289-4e2a-9979-8e0980b7aa64">
+<img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/d2c399af-c611-48b6-8729-5ae21d826156">
 </div>
 
 
