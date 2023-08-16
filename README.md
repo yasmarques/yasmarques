@@ -4,7 +4,7 @@
   <h1>
 H3ll0 W0RLD!
   </h1>
-<img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/667e5019-6360-48db-b52d-a04f8c2e1707">
+<img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/3afafe6c-5289-4e2a-9979-8e0980b7aa64">
 </div>
 
 
@@ -19,9 +19,12 @@ H3ll0 W0RLD!
   <img align="center" alt="icon-php" height="30" width="100" src="https://aleen42.github.io/badges/src/photoshop.svg">
 </div>
 
-<div style="display: inline_block" align="center"><br>   
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmarques&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000">
-<img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=yasmarques&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000">
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmarques&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="yas-stats" height = "165em"/> 
+ &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmarques&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="yas-lang" height = "165em" />
 </div>
+
 
 
