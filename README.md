@@ -24,9 +24,9 @@ H3ll0 W0RLD!
 
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmarques&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="yas-stats" height = "165em"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmarques&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="yas-lang" height = "165em"/> 
  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmarques&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="yas-lang" height = "165em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmarques&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="yas-stats" height = "165em" />
 </div>
 
 
