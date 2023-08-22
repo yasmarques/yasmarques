@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-H3ll0 W0RLD!
+# H3ll0 W0RLD!
   </h1>
 <img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/d2c399af-c611-48b6-8729-5ae21d826156"> <br>
   🍄 <b>Currently Learning:</b> JavaScript and Python <br>
