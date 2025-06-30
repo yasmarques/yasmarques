@@ -5,7 +5,7 @@
 # H3ll0 W0RLD!
   </h1>
 <img alt="banner" src="https://github.com/yasmarques/yasmarques/assets/100882581/d2c399af-c611-48b6-8729-5ae21d826156"> <br>
-  🍄 <b>Intern at</b> Honda Financeira <br>
+  🚗 <b>Intern at</b> Honda Financeira <br>
   ✉️ <b>Reach me at:</b> yasmin.marquestito14@gmail.com <br>
   
 </div>
